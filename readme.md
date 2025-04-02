@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/67f2d1b0-7e77-4b5b-85bc-3e9100dc2ff4" alt="AI Computer Interaction Logger Logo" width="384px" height="300px">
-
+asdf
   # AI Computer Interaction Logger 🖥️🤖
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
